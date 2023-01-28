@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pract01", "Pract01.vcxproj", "{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Debug|x64.ActiveCfg = Debug|x64
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Debug|x64.Build.0 = Debug|x64
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Debug|x86.Build.0 = Debug|Win32
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Release|x64.ActiveCfg = Release|x64
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Release|x64.Build.0 = Release|x64
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Release|x86.ActiveCfg = Release|Win32
+		{C7DB2912-CBEA-43D7-B7D1-48E93BC9095A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222BB51D-8453-4163-820F-439E774FDAC6}
+	EndGlobalSection
+EndGlobal

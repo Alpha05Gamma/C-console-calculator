@@ -1,0 +1,4 @@
+﻿  Pract01.cpp
+D:\Code\C#\Pract01\Pract01.cpp(64,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Code\C#\Pract01\Pract01.cpp(113,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Pract01.vcxproj -> D:\Code\C#\Pract01\x64\Debug\Pract01.exe
